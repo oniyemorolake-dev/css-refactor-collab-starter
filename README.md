@@ -2,7 +2,7 @@
 
 ## Team Members
 
-- [Your Name](https://github.com/your-username)
+- [Autum Darrell](https://github.com/BreezyAutum)
 
 ---
 
