@@ -5,6 +5,7 @@
 - [Daniil Sakov](https://github.com/sakovdaniil628862712342434324/)
 - [Autum Darrell](https://github.com/BreezyAutum)
 - [Zalia Rath](https://github.com/ZaliaR/)
+- [Zhala Asif] (https://github.com/Zhala-11/)
 
 ---
 
