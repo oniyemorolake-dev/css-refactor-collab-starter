@@ -2,9 +2,10 @@
 
 ## Team Members
 
-- [Daniil Sakov](https://github.com/sakovdaniil628862712342434324/)
+- [Morolake Oniye](https://github.com/oniyemorolake-dev)
 - [Autum Darrell](https://github.com/BreezyAutum)
 - [Zalia Rath](https://github.com/ZaliaR/)
+
 
 ---
 
@@ -45,7 +46,7 @@ You will go **one at a time**. Agree on an order before starting.
 1. Open `README.md`.
 2. Delete the example line and add your name as a Markdown link to your GitHub profile:
    ```markdown
-   - [Your Name](https://github.com/your-username)
+   - [Morolake Oniye](https://github.com/oniyemorolake-dev)
    ```
 3. Save, stage, commit with a message like `Add [your name] to README`, and push.
 
