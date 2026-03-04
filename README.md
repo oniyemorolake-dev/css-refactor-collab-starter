@@ -5,8 +5,16 @@
 - [Morolake Oniye](https://github.com/oniyemorolake-dev)
 - [Autum Darrell](https://github.com/BreezyAutum)
 - [Zalia Rath](https://github.com/ZaliaR/)
+<<<<<<< HEAD
 - [Zhala Asif](https://github.com/Zhala-11/)
+=======
+<<<<<<< HEAD
+- [Crystal Chu](https://github.com/amaryllis-radiataS)
+=======
+- [Zhala Asif] (https://github.com/Zhala-11/)
+>>>>>>> 8c611eb3db3bc8382d2710f2abec3abf3ea1ce15
 
+>>>>>>> 3f1fa8493a733c89d462ad6eab6cb0b9ae8e9eed
 
 ---
 
