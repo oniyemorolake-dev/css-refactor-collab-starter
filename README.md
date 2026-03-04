@@ -2,9 +2,10 @@
 
 ## Team Members
 
-- [Daniil Sakov](https://github.com/sakovdaniil628862712342434324/)
+- [Morolake Oniye](https://github.com/oniyemorolake-dev)
 - [Autum Darrell](https://github.com/BreezyAutum)
 - [Zalia Rath](https://github.com/ZaliaR/)
+
 
 ---
 
