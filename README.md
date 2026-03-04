@@ -5,7 +5,7 @@
 - [Morolake Oniye](https://github.com/oniyemorolake-dev)
 - [Autum Darrell](https://github.com/BreezyAutum)
 - [Zalia Rath](https://github.com/ZaliaR/)
-
+- [Crystal Chu](https://github.com/amaryllis-radiataS)
 
 ---
 
