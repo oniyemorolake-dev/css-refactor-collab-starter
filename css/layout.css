@@ -40,7 +40,7 @@ img {
 
 /* TODO: .container--narrow is supposed to be narrower than .container so
    that forms and text-heavy sections don't stretch too wide. Right now it
-   is identical and does nothing. Give it a smaller max-width (around 680px). */
+   is identical and does nothing. Give it a smaller max-width (around 680px). ZALIA-COMPLETE.*/
 
 .wrapper {
   max-width: 800px;
@@ -117,8 +117,9 @@ img {
   background-color: #fdf6e3;
   /* FIXME: height clips content when the browser font size is increased or on
      small screens. Replace height with min-height and add padding so the
-     section can grow to fit its content. */
-  height: 480px;
+     section can grow to fit its content. ZALIA-COMPLETE.*/
+  min-height: 480px;
+  padding: 2rem;
   display: flex;
   align-items: center;
   justify-content: center;
