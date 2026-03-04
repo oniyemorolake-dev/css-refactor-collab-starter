@@ -1,16 +1,8 @@
-/* components.css - buttons, cards, and form styles */
-
-/* --- buttons --- */
-
 .btn {
   display: inline-block; /* makes the link behave like a button */
   padding: 0.75rem 1.75rem; /* top/bottom and left/right padding */
   font-size: 0.875rem; /* slightly smaller than body text */
   font-weight: 700; /* bold text */
-
-
-
-
   letter-spacing: 0.06em; /* spreads the letters out a bit */
   text-transform: uppercase; /* makes all the text caps */
 
@@ -51,24 +43,14 @@
   color: #ffffff; /* flip to white text */
 }
 
-/* --- cards --- */
-
 .card {
   background-color: #ffffff; /* white card background */
+  hover: tranlateY(-2px);
   border: 1px solid #e8e4dc; /* light grey border */
   border-radius: 8px; /* rounded corners */
   padding: 1.5rem; /* inner spacing */
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08); /* subtle drop shadow */
 }
-
-
-
-
-
-
-
-
-
 
 /* TODO: Add a hover state to .card. A small translateY(-2px) and a slightly
    larger box-shadow gives a nice "lift" effect. You will also need to add a
@@ -91,22 +73,17 @@
   margin-bottom: 0; /* remove default paragraph margin */
 }
 
-/* --- contact form --- */
-
 .contact-form {
   display: flex; /* stack fields vertically */
   flex-direction: column; /* one field per row */
   gap: 1.25rem; /* space between each field group */
 }
 
-
-
-
-  .form-group{
+.form-group {
   display: flex; /* stack label above input */
   flex-direction: column; /* label on top, input below */
   gap: 0.375rem; /* small gap between label and input */
-  }
+}
 
 .contact-form label {
   font-size: 0.875rem; /* small label text */
@@ -130,7 +107,8 @@
 }
 
 /* styles text inputs */
-.contact-form input[type="text"] {
+.contact-form input[type="text"],
+.contact-form input[type="email"] {
   width: 100%;
   padding: 0.625rem 0.875rem;
   font-family: "Lato", Arial, sans-serif;
@@ -139,29 +117,7 @@
   background-color: #ffffff;
   border: 1px solid #e8e4dc;
   border-radius: 4px;
-  outline: none;
 }
-
-/* styles email inputs */
-.contact-form input[type="email"]
-
-{
-  width: 100%;
-  padding: 0.625rem 0.875rem;
-  font-family: "Lato", Arial, sans-serif;
-  font-size: 1rem;
-  color: #1e1a17;
-  background-color: #ffffff;
-  border: 1px solid #e8e4dc;
-  border-radius: 4px;
-  outline: none;
-}
-
-/* FIXME: the two rules above are identical and already covered by the shared
-   rule above them. Combine them into a single selector — or remove them
-   entirely and rely on the shared rule. Also, outline: none removes the
-   browser's focus ring with nothing to replace it — this breaks keyboard
-   accessibility. Add a :focus style with a visible border or outline instead. */
 
 .contact-form select {
   padding-right: 2.5rem; /* extra room for the custom arrow */
@@ -201,8 +157,6 @@
   margin-top: 0.5rem; /* a little breathing room above the buttons */
 }
 
-/* --- faq items --- */
-
 .faq-item {
   background-color: #ffffff; /* white background */
   border: 1px solid #e8e4dc; /* light border */
@@ -214,15 +168,6 @@
   height: 140px;
   overflow: hidden;
 }
-
-
-
-
-
-
-
-
-
 
 .faq-item h3 {
   color: #7a1f3d; /* red question heading */
