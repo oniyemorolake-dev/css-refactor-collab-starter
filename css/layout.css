@@ -198,16 +198,11 @@ img {
   gap: 1.5rem;
 }
 
-.footer-nav a {
-  color: #9e9890;
-  text-decoration: none;
-}
-
 .footer-nav a:hover {
   color: #c9a84c;
 }
 
-/* this rule does the same thing as .footer-nav a above but with higher specificity */
+/* this rule does the same thing as .footer-nav a above but with higher specificity ZALIA-COMPLETE. */
 .site-footer .footer-nav ul li a {
   color: #9e9890;
   text-decoration: none;
