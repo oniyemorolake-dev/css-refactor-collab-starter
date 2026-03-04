@@ -6,21 +6,15 @@
   font-size: 0.875rem; /* slightly smaller than body text */
   font-weight: 700; /* bold text */
   letter-spacing: 0.06em; /* spreads the letters out a bit */
-  text-transform: uppercase; /* makes all the text caps */
-
+  text-transform: uppercase;
   text-decoration: none; /* removes underline */
-
   border: 2px solid transparent; /* border colour is set per variant */
   border-radius: 4px; /* slightly rounded corners */
-
   cursor: pointer; /* shows a hand cursor on hover */
-  transition: background-color 2s ease; /* animates background colour */
+  transition: 200ms ease; /* animates background colour */
+  background-color: transparent;
+  border-color: transparent;
 }
-
-/* TODO: .btn only transitions background-color. Add color and border-color to
-   the transition so changes animate smoothly. Also add a :focus-visible style
-   so keyboard users can see which button is focused — there is currently no
-   visible focus indicator on buttons. */
 
 .btn-primary {
   background-color: #7a1f3d; /* dark red background */
