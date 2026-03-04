@@ -1,3 +1,5 @@
+(components.css)
+
 .btn {
   display: inline-block; /* makes the link behave like a button */
   padding: 0.75rem 1.75rem; /* top/bottom and left/right padding */
@@ -12,7 +14,7 @@
   border-radius: 4px; /* slightly rounded corners */
 
   cursor: pointer; /* shows a hand cursor on hover */
-  transition: background-color 200ms ease; /* animates background colour */
+  transition: background-color 2s ease; /* animates background colour */
 }
 
 /* TODO: .btn only transitions background-color. Add color and border-color to
